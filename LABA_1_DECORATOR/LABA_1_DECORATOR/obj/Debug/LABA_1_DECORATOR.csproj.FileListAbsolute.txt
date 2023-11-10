@@ -1,0 +1,7 @@
+C:\Users\79045\source\repos\LABA_1_DECORATOR\LABA_1_DECORATOR\bin\Debug\LABA_1_DECORATOR.exe.config
+C:\Users\79045\source\repos\LABA_1_DECORATOR\LABA_1_DECORATOR\bin\Debug\LABA_1_DECORATOR.exe
+C:\Users\79045\source\repos\LABA_1_DECORATOR\LABA_1_DECORATOR\bin\Debug\LABA_1_DECORATOR.pdb
+C:\Users\79045\source\repos\LABA_1_DECORATOR\LABA_1_DECORATOR\obj\Debug\LABA_1_DECORATOR.csproj.AssemblyReference.cache
+C:\Users\79045\source\repos\LABA_1_DECORATOR\LABA_1_DECORATOR\obj\Debug\LABA_1_DECORATOR.csproj.CoreCompileInputs.cache
+C:\Users\79045\source\repos\LABA_1_DECORATOR\LABA_1_DECORATOR\obj\Debug\LABA_1_DECORATOR.exe
+C:\Users\79045\source\repos\LABA_1_DECORATOR\LABA_1_DECORATOR\obj\Debug\LABA_1_DECORATOR.pdb

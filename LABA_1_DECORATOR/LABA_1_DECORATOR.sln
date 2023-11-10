@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LABA_1_DECORATOR", "LABA_1_DECORATOR\LABA_1_DECORATOR.csproj", "{193F9D94-D4FD-45C8-82C7-CEDB6D101FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193F9D94-D4FD-45C8-82C7-CEDB6D101FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193F9D94-D4FD-45C8-82C7-CEDB6D101FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193F9D94-D4FD-45C8-82C7-CEDB6D101FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193F9D94-D4FD-45C8-82C7-CEDB6D101FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4036A0D-0971-43DE-9A31-1DCFCB91CAAF}
+	EndGlobalSection
+EndGlobal
